@@ -1,0 +1,698 @@
+{
+  "audio_transcription": [
+    {
+      "timestamp": "00:06",
+      "speech": "WHOA"
+    },
+    {
+      "timestamp": "00:09",
+      "speech": "Yeah, go."
+    },
+    {
+      "timestamp": "00:15",
+      "speech": "Yeah."
+    },
+    {
+      "timestamp": "00:18",
+      "speech": "Yeah, good."
+    },
+    {
+      "timestamp": "00:23",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "00:25",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "00:30",
+      "speech": "Whoa, that's good."
+    },
+    {
+      "timestamp": "00:33",
+      "speech": "Good, good."
+    },
+    {
+      "timestamp": "00:35",
+      "speech": "Yeah, good."
+    },
+    {
+      "timestamp": "00:36",
+      "speech": "Good, good."
+    },
+    {
+      "timestamp": "00:37",
+      "speech": "Good, good."
+    },
+    {
+      "timestamp": "00:38",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "00:41",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "00:43",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "00:45",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "00:49",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "00:52",
+      "speech": "Yes."
+    },
+    {
+      "timestamp": "00:53",
+      "speech": "Sure."
+    },
+    {
+      "timestamp": "00:56",
+      "speech": "Sure."
+    },
+    {
+      "timestamp": "01:00",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "01:03",
+      "speech": "Sure."
+    },
+    {
+      "timestamp": "01:05",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "01:07",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "01:10",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "01:13",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "01:28",
+      "speech": "Joe, cover."
+    },
+    {
+      "timestamp": "01:32",
+      "speech": "Joe, two-way."
+    },
+    {
+      "timestamp": "01:33",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "01:36",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "01:39",
+      "speech": "Lock fuel."
+    },
+    {
+      "timestamp": "01:44",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "01:49",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "01:51",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "01:54",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "01:58",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:01",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:04",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:06",
+      "speech": "Good, good."
+    },
+    {
+      "timestamp": "02:09",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:12",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:14",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:17",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:22",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:26",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:29",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:32",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:35",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:39",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:42",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:46",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:49",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:53",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "02:57",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:01",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:05",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:09",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:13",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:16",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:19",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:22",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:26",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:29",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:32",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:36",
+      "speech": "Good, good."
+    },
+    {
+      "timestamp": "03:40",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:44",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:47",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:51",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:54",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "03:58",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "04:02",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "04:06",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "04:10",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "04:14",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "04:18",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "04:22",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "04:26",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "04:30",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "04:34",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "04:38",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "04:42",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "04:46",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "04:50",
+      "speech": "There's your nuts, butter."
+    },
+    {
+      "timestamp": "04:53",
+      "speech": "Prep by the head. Head tray."
+    },
+    {
+      "timestamp": "04:57",
+      "speech": "Turning?"
+    },
+    {
+      "timestamp": "04:57",
+      "speech": "No."
+    },
+    {
+      "timestamp": "05:01",
+      "speech": "Go with it."
+    },
+    {
+      "timestamp": "05:05",
+      "speech": "Yes."
+    },
+    {
+      "timestamp": "05:09",
+      "speech": "Check nine."
+    },
+    {
+      "timestamp": "05:13",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "05:17",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "05:21",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "05:25",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "05:29",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "05:33",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "05:37",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "05:41",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "05:44",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "05:48",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "05:52",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "05:56",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:00",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:04",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:08",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:12",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:16",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:20",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:24",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:28",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:32",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:35",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:39",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:43",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:47",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:51",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:55",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "06:59",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "07:03",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "07:07",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "07:08",
+      "speech": "Rack coming out."
+    },
+    {
+      "timestamp": "07:13",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "07:17",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "07:21",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "07:25",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "07:29",
+      "speech": "Good."
+    },
+    {
+      "timestamp": "07:33",
+      "speech": "Good."
+    }
+  ],
+  "visual_events": [
+    {
+      "timestamp": "00:00",
+      "description": "A black Mopar-branded dragster is seen inside a pit garage."
+    },
+    {
+      "timestamp": "00:02",
+      "description": "A red dragster is pulled out of the garage towards the pit area."
+    },
+    {
+      "timestamp": "00:05",
+      "description": "A crew member in gloves kneels at the front of the dragster, starting to work."
+    },
+    {
+      "timestamp": "00:09",
+      "description": "The outer shell of the dragster is lifted off, revealing the chassis and engine beneath."
+    },
+    {
+      "timestamp": "00:13",
+      "description": "The dragster chassis is rolled forward from under the lifted shell."
+    },
+    {
+      "timestamp": "00:15",
+      "description": "A crew member in a mask places a support structure under the lifted car shell."
+    },
+    {
+      "timestamp": "00:18",
+      "description": "A crew member pulls out a long metal bar from the side of the car."
+    },
+    {
+      "timestamp": "00:21",
+      "description": "The dragster chassis is visible in the pit area with multiple crew members working on it."
+    },
+    {
+      "timestamp": "00:23",
+      "description": "Close-up of a gloved hand beginning to remove exhaust pipes from the engine."
+    },
+    {
+      "timestamp": "00:30",
+      "description": "Gloved hands continue to remove exhaust pipes from the engine."
+    },
+    {
+      "timestamp": "00:33",
+      "description": "Gloved hands disconnect electrical connections from the engine."
+    },
+    {
+      "timestamp": "00:35",
+      "description": "Another crew member's gloved hands remove spark plug wires."
+    },
+    {
+      "timestamp": "00:41",
+      "description": "Gloved hands detach various lines from the top of the engine."
+    },
+    {
+      "timestamp": "00:47",
+      "description": "A gloved hand places a tool into a toolbox."
+    },
+    {
+      "timestamp": "00:54",
+      "description": "Gloved hands remove a silver engine cover marked 'HEMI'."
+    },
+    {
+      "timestamp": "01:00",
+      "description": "Gloved hands remove red spark plug boots from the engine."
+    },
+    {
+      "timestamp": "01:14",
+      "description": "Gloved hands use an impact driver to remove bolts from the engine."
+    },
+    {
+      "timestamp": "01:28",
+      "description": "The 'HEMI' engine cover is fully removed, revealing the valve train components inside."
+    },
+    {
+      "timestamp": "01:38",
+      "description": "Gloved hands remove a bolt from the engine."
+    },
+    {
+      "timestamp": "01:49",
+      "description": "Gloved hands continue removing bolts from the engine using an impact wrench."
+    },
+    {
+      "timestamp": "02:08",
+      "description": "Gloved hands remove the remaining bolts from the side of the engine."
+    },
+    {
+      "timestamp": "02:14",
+      "description": "A gloved hand puts the impact wrench away in a toolbox."
+    },
+    {
+      "timestamp": "02:36",
+      "description": "Gloved hands remove another engine component using a long wrench."
+    },
+    {
+      "timestamp": "02:47",
+      "description": "Gloved hands remove a long metal bar from the side of the engine."
+    },
+    {
+      "timestamp": "03:15",
+      "description": "Gloved hands remove engine components using an impact wrench."
+    },
+    {
+      "timestamp": "03:44",
+      "description": "Gloved hands lift off a large, copper-colored gasket from the engine block."
+    },
+    {
+      "timestamp": "03:51",
+      "description": "Gloved hands remove long metal studs from the engine block."
+    },
+    {
+      "timestamp": "04:29",
+      "description": "Gloved hands continue removing long metal studs from the engine block."
+    },
+    {
+      "timestamp": "04:53",
+      "description": "A gloved hand holds a metal tray for parts."
+    },
+    {
+      "timestamp": "05:13",
+      "description": "Gloved hands remove a large drive belt from the engine assembly."
+    },
+    {
+      "timestamp": "05:21",
+      "description": "Gloved hands continue working on the remaining engine components."
+    },
+    {
+      "timestamp": "05:37",
+      "description": "Gloved hands continue working on engine components."
+    },
+    {
+      "timestamp": "05:44",
+      "description": "Gloved hands continue working on engine components, showing the internal parts."
+    },
+    {
+      "timestamp": "05:51",
+      "description": "Gloved hands continue working on engine components."
+    },
+    {
+      "timestamp": "05:58",
+      "description": "Gloved hands continue working on engine components, revealing more internal details."
+    },
+    {
+      "timestamp": "06:05",
+      "description": "Gloved hands continue working on engine components."
+    },
+    {
+      "timestamp": "06:12",
+      "description": "Gloved hands continue working on engine components."
+    },
+    {
+      "timestamp": "06:19",
+      "description": "Gloved hands continue working on engine components."
+    },
+    {
+      "timestamp": "06:26",
+      "description": "Gloved hands remove large pistons from the engine block and place them onto a separate tray."
+    },
+    {
+      "timestamp": "06:33",
+      "description": "More pistons are removed from the engine block and placed on the tray."
+    },
+    {
+      "timestamp": "06:40",
+      "description": "More pistons are removed from the engine block and placed on the tray."
+    },
+    {
+      "timestamp": "06:47",
+      "description": "More pistons are removed from the engine block and placed on the tray."
+    },
+    {
+      "timestamp": "06:54",
+      "description": "More pistons are removed from the engine block and placed on the tray."
+    },
+    {
+      "timestamp": "07:01",
+      "description": "More pistons are removed from the engine block and placed on the tray."
+    },
+    {
+      "timestamp": "07:08",
+      "description": "Gloved hands remove a metal component, possibly part of the valve train or fuel system."
+    },
+    {
+      "timestamp": "07:15",
+      "description": "A wide shot shows the engine almost completely disassembled, with various parts on work surfaces."
+    },
+    {
+      "timestamp": "07:22",
+      "description": "Final shot shows various engine parts laid out on tables in the pit area."
+    }
+  ]
+}

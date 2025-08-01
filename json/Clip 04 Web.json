@@ -1,0 +1,220 @@
+{
+  "visual_events": [
+    {
+      "timestamp": "00:00",
+      "description": "The FPV drone takes off from the ground, approaching a large abandoned structure."
+    },
+    {
+      "timestamp": "00:03",
+      "description": "The drone ascends rapidly, flying over the top of the structure, revealing the ocean view behind it."
+    },
+    {
+      "timestamp": "00:05",
+      "description": "The drone dives vertically, showcasing the structure from above, then flies through an opening."
+    },
+    {
+      "timestamp": "00:09",
+      "description": "The drone performs a quick spin, showing the surrounding environment of the abandoned park."
+    },
+    {
+      "timestamp": "00:12",
+      "description": "The drone flies low to the ground, gliding over colorful painted patterns on the pavement."
+    },
+    {
+      "timestamp": "00:15",
+      "description": "The drone navigates through a dark, covered passageway adorned with graffiti."
+    },
+    {
+      "timestamp": "00:18",
+      "description": "The drone flies through a narrow archway into another section of the abandoned building."
+    },
+    {
+      "timestamp": "00:20",
+      "description": "The drone continues through the darker interior, showcasing more graffiti-covered walls."
+    },
+    {
+      "timestamp": "00:24",
+      "description": "The drone emerges from the darkness into a brighter, open courtyard with trees."
+    },
+    {
+      "timestamp": "00:28",
+      "description": "The drone dives down a stairwell, entering a lower level of the structure."
+    },
+    {
+      "timestamp": "00:30",
+      "description": "The drone explores the dark, subterranean tunnels beneath the structure."
+    },
+    {
+      "timestamp": "00:32",
+      "description": "The drone ascends from the underground, back into the main courtyard area."
+    },
+    {
+      "timestamp": "00:37",
+      "description": "The drone flies rapidly towards the large, skeletal main structure again."
+    },
+    {
+      "timestamp": "00:39",
+      "description": "The drone performs a complex maneuver, flying over the top of the structure while showcasing the ocean."
+    },
+    {
+      "timestamp": "00:43",
+      "description": "The drone descends into the heart of the main building, revealing a large graffiti eye on the back wall."
+    },
+    {
+      "timestamp": "00:45",
+      "description": "The drone flies through a decorated archway within the main structure."
+    },
+    {
+      "timestamp": "00:48",
+      "description": "The drone flies upwards along the exterior wall of the structure."
+    },
+    {
+      "timestamp": "00:51",
+      "description": "The drone executes a dive into a small opening on a concrete platform."
+    },
+    {
+      "timestamp": "00:55",
+      "description": "The drone navigates through a dense, overgrown area with trees and remnants of buildings."
+    },
+    {
+      "timestamp": "01:02",
+      "description": "The drone flies through a window opening into a room, then quickly exits."
+    },
+    {
+      "timestamp": "01:07",
+      "description": "The drone approaches the main entrance of the large structure, flying up the stairs."
+    },
+    {
+      "timestamp": "01:10",
+      "description": "The drone flies through the interior of the main structure, showcasing the open ceiling and graffiti."
+    },
+    {
+      "timestamp": "01:13",
+      "description": "The drone ascends above the structure, offering a panoramic view of the beach and surroundings."
+    },
+    {
+      "timestamp": "01:19",
+      "description": "The drone performs an inverted flight high above the complex, capturing a wide aerial view."
+    },
+    {
+      "timestamp": "01:23",
+      "description": "The drone descends back into the main structure's central area."
+    },
+    {
+      "timestamp": "01:28",
+      "description": "The drone flies very close to the large graffiti eye, then ascends straight up through the skeletal roof."
+    },
+    {
+      "timestamp": "01:30",
+      "description": "The drone flies over the top of the structure, performing a spin, and nearly crashes."
+    },
+    {
+      "timestamp": "01:32",
+      "description": "The drone recovers from the close call and returns to the ground level."
+    },
+    {
+      "timestamp": "01:34",
+      "description": "The drone flies into the entrance of the main structure and then through its interior."
+    },
+    {
+      "timestamp": "01:37",
+      "description": "The drone flies out of the main structure, showcasing its speed and agility."
+    },
+    {
+      "timestamp": "01:41",
+      "description": "The drone performs a quick dive and pull-up maneuver around a blue barrel."
+    },
+    {
+      "timestamp": "01:46",
+      "description": "The drone flies back towards the main entrance of the structure."
+    },
+    {
+      "timestamp": "01:48",
+      "description": "The drone re-enters the main hall of the building."
+    },
+    {
+      "timestamp": "01:50",
+      "description": "The drone flies up and over the structure, showcasing the coastal view."
+    },
+    {
+      "timestamp": "01:52",
+      "description": "The drone executes an inverted turn, providing an aerial perspective of the entire abandoned complex."
+    },
+    {
+      "timestamp": "01:54",
+      "description": "The drone descends back into the structure's interior."
+    },
+    {
+      "timestamp": "01:57",
+      "description": "The drone exits the main hall into a tree-lined pathway."
+    },
+    {
+      "timestamp": "02:02",
+      "description": "The drone performs another dive into a dark, lower-level opening."
+    },
+    {
+      "timestamp": "02:04",
+      "description": "The drone emerges from the dark opening and flies past old structures."
+    },
+    {
+      "timestamp": "02:07",
+      "description": "The drone flies towards and through another small building entrance."
+    },
+    {
+      "timestamp": "02:10",
+      "description": "The drone exits the building and maneuvers around obstacles."
+    },
+    {
+      "timestamp": "02:13",
+      "description": "The drone approaches the large structure and performs an acrobatic ascent over it."
+    },
+    {
+      "timestamp": "02:15",
+      "description": "The drone performs a dizzying, fast dive into the structure's interior."
+    },
+    {
+      "timestamp": "02:18",
+      "description": "The drone flies through the interior, showcasing the graffiti art and structural elements."
+    },
+    {
+      "timestamp": "02:20",
+      "description": "The drone exits the structure and flies high, performing a complex 360-degree roll above it."
+    },
+    {
+      "timestamp": "02:24",
+      "description": "The drone dives down into the structure, close to the prominent eye graffiti."
+    },
+    {
+      "timestamp": "02:26",
+      "description": "The drone flies straight up from the eye graffiti, shooting towards the open sky."
+    },
+    {
+      "timestamp": "02:28",
+      "description": "The drone flies out of the structure, makes a sharp turn, narrowly avoiding a collision."
+    },
+    {
+      "timestamp": "02:30",
+      "description": "The drone recovers and flies over a wooded area."
+    },
+    {
+      "timestamp": "02:33",
+      "description": "The drone approaches the main structure and flies into its entrance."
+    },
+    {
+      "timestamp": "02:36",
+      "description": "The drone flies through the interior of the main structure, then exits it."
+    },
+    {
+      "timestamp": "02:41",
+      "description": "The drone flies low across the ground, passing by a circular fountain area."
+    },
+    {
+      "timestamp": "02:46",
+      "description": "The drone flies through a covered entrance, passing under trees and structures."
+    },
+    {
+      "timestamp": "02:49",
+      "description": "The drone lands softly on the paved ground."
+    }
+  ]
+}
