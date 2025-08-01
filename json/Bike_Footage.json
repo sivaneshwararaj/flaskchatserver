@@ -1,0 +1,104 @@
+{
+    "visual_events": [
+        {
+            "timestamp": "00:00",
+            "description": "The video starts with a first-person view of a mountain biker holding handlebars, facing a dirt path with mountains and a clear sky in the background. Other bikers are visible further down the path."
+        },
+        {
+            "timestamp": "00:05",
+            "description": "The rider starts pedaling forward on a wide dirt path, passing a wooden sign for 'Skills Park'."
+        },
+        {
+            "timestamp": "00:19",
+            "description": "The rider enters a wooded section, and the dirt path narrows, becoming more uneven with small rocks and roots."
+        },
+        {
+            "timestamp": "00:27",
+            "description": "The rider navigates a banked turn (berm) within the forest."
+        },
+        {
+            "timestamp": "00:51",
+            "description": "The rider transitions onto a short wooden structure, moving into a more open area with visible jumps and rollers."
+        },
+        {
+            "timestamp": "01:02",
+            "description": "The rider goes around a large, sweeping dirt berm."
+        },
+        {
+            "timestamp": "01:10",
+            "description": "The rider approaches a sign indicating a split in the trail, offering 'Upper B-Line' and 'Jump Trail B-Line'."
+        },
+        {
+            "timestamp": "01:17",
+            "description": "The rider enters the 'Upper B-Line' trail, which is a narrower, more technical singletrack winding through dense trees."
+        },
+        {
+            "timestamp": "01:52",
+            "description": "The rider splashes through a small muddy puddle and the trail widens significantly, opening up to an area with ski lifts visible in the distance."
+        },
+        {
+            "timestamp": "02:07",
+            "description": "The rider passes a trail entrance sign and re-enters a wooded section with smooth, flowing dirt trails."
+        },
+        {
+            "timestamp": "03:10",
+            "description": "The rider transitions onto a long, wooden boardwalk section, winding through the forest."
+        },
+        {
+            "timestamp": "03:49",
+            "description": "The rider rides over a large, flat rock feature on the trail."
+        },
+        {
+            "timestamp": "03:53",
+            "description": "The rider passes a 'Yield' sign, indicating an intersection with another trail."
+        },
+        {
+            "timestamp": "04:20",
+            "description": "The rider rides off a wooden feature (possibly a jump or drop) and into an open, sunny area."
+        },
+        {
+            "timestamp": "04:39",
+            "description": "The rider enters another wooded, technical section with many roots and rocks."
+        },
+        {
+            "timestamp": "05:06",
+            "description": "The rider enters another long, winding wooden boardwalk section within the forest."
+        },
+        {
+            "timestamp": "06:00",
+            "description": "The rider exits the dense woods onto a wide, open dirt path with clear views of the distant mountains and ski slopes."
+        },
+        {
+            "timestamp": "06:29",
+            "description": "The rider passes a 'Warning Slow' sign and wooden barriers, indicating approach to the base area."
+        },
+        {
+            "timestamp": "07:07",
+            "description": "The rider rides onto an open, slightly downhill section with jumps and rollers in the distance, heading towards the main base area."
+        },
+        {
+            "timestamp": "07:44",
+            "description": "The rider passes a sign for 'Naughty Hands' trail, entering a singletrack with roots and tight turns."
+        },
+        {
+            "timestamp": "08:38",
+            "description": "The rider enters and rides through a short, dark tunnel under a bridge."
+        },
+        {
+            "timestamp": "09:07",
+            "description": "The rider approaches the base village area, with buildings, people, and other bikers clearly visible."
+        },
+        {
+            "timestamp": "09:17",
+            "description": "The rider slows down, navigating through metal barriers and 'Slow' signs at the base of the bike park."
+        },
+        {
+            "timestamp": "09:20",
+            "description": "The rider enters the crowded village square, passing 'Please Walk Bikes' signs, and begins walking the bike through the pedestrian area."
+        },
+        {
+            "timestamp": "09:57",
+            "description": "The video ends with the rider continuing to walk the bike through the bustling village square on a sunny day."
+        }
+    ]
+}
