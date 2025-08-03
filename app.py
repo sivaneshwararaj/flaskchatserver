@@ -67,19 +67,17 @@ def load_video_context(filename: str) -> str:
 
 
 def create_prompt(question: str, video_context_string: str) -> str:
-    """Creates the full prompt for the Gemini model using the provided context."""
+    """Creates a concise prompt for the Gemini model."""
     return f"""
-    You are a helpful assistant that answers questions about a video.
-    Use ONLY the following JSON data as your context to answer the user's question.
-    Do not make up information. If the answer is not in the data, say "I don't have information on that."
-    
-    **CRITICAL INSTRUCTION: When you provide information about an event or spoken word, ALWAYS include the exact timestamp(s) in MM:SS format directly from the provided JSON context.**
+    Answer the user's question using ONLY the provided JSON video context.
+    If the answer isn't in the context, state "I don't have information on that."
+    **CRITICAL:** Cite the exact MM:SS timestamp from the JSON for any event or dialogue mentioned.
 
-    --- Video Context (JSON) ---
+    --- Context (JSON) ---
     {video_context_string}
     --- End of Context ---
 
-    User's Question: "{question}"
+    Question: "{question}"
     """
 
 def handle_preflight():
